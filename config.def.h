@@ -884,7 +884,7 @@ static const char *dmenucmd[] = {
 	NULL
 };
 */
-static const char *termcmd[]  = { "ghostty", NULL };
+static const char *termcmd[]  = { "kitty", NULL };
 
 #if BAR_STATUSCMD_PATCH
 #if BAR_DWMBLOCKS_PATCH
